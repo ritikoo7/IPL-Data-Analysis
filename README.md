@@ -1,10 +1,10 @@
-# IPL Data Analysis
+# IPL Data Analysis 🏏
 
-A simple data analysis project on IPL (Indian Premier League) data using Python.
+A simple IPL data analysis project using Python and Jupyter Notebook.
 
-## Overview
+## Project Link
 
-This project explores IPL match data and finds useful insights about teams, players, toss decisions, and match results using data visualization.
+Repository: https://github.com/ritikoo7/IPL-Data-Analysis
 
 ## Tools Used
 
@@ -15,51 +15,33 @@ This project explores IPL match data and finds useful insights about teams, play
 - Seaborn
 - Jupyter Notebook
 
-## Dataset
+## Features
 
-The project uses IPL datasets containing match and delivery information.
-
-## Analysis
-
-- Top players with most Player of the Match awards
+- Player of the Match analysis
 - Team performance analysis
 - Toss winner vs match winner analysis
-- Matches won by runs and wickets
-- Season-wise match statistics
-- City-wise match distribution
+- Match result visualization
+- Season-wise statistics
+- City-wise match analysis
 
-## Visualizations
+## Dataset
 
-- Bar Charts
-- Histograms
-- Pie Charts
+- IPL Match Dataset
+- IPL Deliveries Dataset
 
 ## Installation
 
 ```bash
-git clone https://github.com/ritikoo7/IPL-Data-Analysis
+git clone https://github.com/ritikoo7/IPL-Data-Analysis.git
 cd IPL-Data-Analysis
+```
+
+## Run
+
+```bash
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
-
-## Project Structure
-
-```text
-IPL-Data-Analysis/
-│
-├── IPL-Data-Analysis.ipynb
-├── ipl-dataset.csv
-├── deliveries.csv
-└── README.md
-```
-
-## Key Insights
-
-- Identified top-performing players.
-- Compared team performances.
-- Studied the effect of toss wins.
-- Analyzed match-winning patterns.
 
 ## Author
 RITIK ASHOKDAS
@@ -67,4 +49,4 @@ B.Tech CSE (Data Science & AI)
 Sikkim Manipal Institute of Technology (SMIT)
 
 
-
+⭐ Star this repository if you like the project.
